@@ -1,0 +1,12 @@
+{
+  "name": "garage-automobile",
+  "version": "1.0.0",
+  "description": "TP TypeScript - Garage Automobile",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
